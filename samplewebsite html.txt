@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Jaypay - Make Payments Easy</title>
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/products">Products</a></li>
+        <li><a href="/contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h1>Welcome to Jaypay</h1>
+    <p>
+      Jaypay is a simple and secure way to make online payments. 
+    </p>
+    <h2>Our Products</h2>
+    <ul>
+      <li>Jaypay Basic: A basic payment processing service for small businesses</li>
+      <li>Jaypay Plus: An advanced payment processing service with additional features for medium-sized businesses</li>
+      <li>Jaypay Premium: A comprehensive payment processing solution for large businesses with advanced features and support</li>
+    </ul>
+    <p>
+      <a href="/signup">Sign up now</a> to get started with Jaypay and start accepting payments online.
+    </p>
+  </main>
+  <footer>
+    <p>Copyright 2021 Jaypay Inc. All rights reserved.</p>
+  </footer>
+</body>
+</html>
